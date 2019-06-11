@@ -26,8 +26,9 @@ void isr_serial()
 
 void main()
 {
+    int x=0;
     while(TRUE)
     {
-       
+      x++;
     }
 }
